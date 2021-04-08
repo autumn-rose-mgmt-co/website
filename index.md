@@ -2,6 +2,16 @@
 layout: default
 ---
 
+
+<p style="text-align: center;">
+  <img src="/website/assets/images/pexels-garret-schappacher-2115874.jpg" width="300" alt="Photo by Garret Schappacher from Pexels"/>
+  <figcaption>Photo by Garret Schappacher from Pexels</figcaption>
+  <img src="/website/assets/images/pexels-kevin-ku-577585.jpg" width="300" alt="Photo by Kevin Ku from Pexels"/>
+  <figcaption>Photo by Kevin Ku from Pexels</figcaption> 
+  <img src="/website/assets/images/pexels-david-vives-2837909.jpg" width="300" alt="Photo by David Vives from Pexels"/>
+  <figcaption>Photo by David Vives from Pexels</figcaption>
+</p>
+
 ---
 Autumn Rose Management Company (ARMC) is a pre-launch alternative asset class offering material returns to institutional and high net worth investors that are mostly independent from other financial markets. 
 
@@ -13,21 +23,11 @@ ARMC’s sports betting operations are subject to regulation by Sports Books and
 
 Once such approvals are obtained, ARMC will provide an Offering Memorandum and related information to qualified investors.
 
+
 ![ARMC Logo](/website/assets/images/armc-logo-square.png)
 
 
 
-<p style="text-align: center;">
-  <img src="/website/assets/images/pexels-garret-schappacher-2115874.jpg" width="300" />
-  <img src="/website/assets/images/pexels-kevin-ku-577585.jpg" width="300" /> 
-  <img src="/website/assets/images/pexels-david-vives-2837909.jpg" width="300" />
-</p>
-
-
-
-|:-------------|:------------------|:------|
-| ![Photo by Garret Schappacher from Pexels](/website/assets/images/pexels-garret-schappacher-2115874.jpg)           | ![Photo by Kevin Ku from Pexels](/website/assets/images/pexels-kevin-ku-577585.jpg) | ![Photo by David Vives from Pexels](/website/assets/images/pexels-david-vives-2837909.jpg)|
-| _Photo by Garret Schappacher from Pexels_ | _Photo by Kevin Ku from Pexels_  | _Photo by David Vives from Pexels_ |
 
 
 ---

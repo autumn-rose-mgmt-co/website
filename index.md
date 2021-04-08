@@ -27,7 +27,7 @@ Once such approvals are obtained, ARMC will provide an Offering Memorandum and r
 
 |:-------------|:------------------|:------|
 | ![Photo by Garret Schappacher from Pexels](/website/assets/images/pexels-garret-schappacher-2115874.jpg)           | ![Photo by Kevin Ku from Pexels](/website/assets/images/pexels-kevin-ku-577585.jpg) | ![Photo by David Vives from Pexels](/website/assets/images/pexels-david-vives-2837909.jpg)|
-| Photo by Garret Schappacher from Pexels | Photo by Kevin Ku from Pexels   |Photo by David Vives from Pexels |
+| _Photo by Garret Schappacher from Pexels_ | _Photo by Kevin Ku from Pexels_  | _Photo by David Vives from Pexels_ |
 
 
 ---

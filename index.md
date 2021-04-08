@@ -21,8 +21,8 @@ ARMC’s sports betting operations are subject to regulation by Sports Books and
 
 Once such approvals are obtained, ARMC will provide an Offering Memorandum and related information to qualified investors.
 
-<p>
-<img src="/website/assets/images/armc-logo-square.png" width="500" alt="Autumn Rose Management Company"/>
+<p style="text-align: center;">
+<img src="/website/assets/images/armc-logo-square.png" width="300" alt="Autumn Rose Management Company"/>
 </p>
 
 

@@ -18,9 +18,9 @@ Once such approvals are obtained, ARMC will provide an Offering Memorandum and r
 
 
 <p>
-  <img src="/website/assets/images/pexels-garret-schappacher-2115874.jpg" width="100" />
-  <img src="/website/assets/images/pexels-kevin-ku-577585.jpg" width="100" /> 
-  <img src="/website/assets/images/pexels-david-vives-2837909.jpg" width="100" />
+  <img src="/website/assets/images/pexels-garret-schappacher-2115874.jpg" width="300" />
+  <img src="/website/assets/images/pexels-kevin-ku-577585.jpg" width="300" /> 
+  <img src="/website/assets/images/pexels-david-vives-2837909.jpg" width="300" />
 </p>
 
 

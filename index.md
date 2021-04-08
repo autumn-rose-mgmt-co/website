@@ -13,7 +13,7 @@ ARMC’s sports betting operations are subject to regulation by Sports Books and
 
 Once such approvals are obtained, ARMC will provide an Offering Memorandum and related information to qualified investors.
 
-![ARMC Logo](/assets/images/armc-logo-square.png)
+![ARMC Logo](/website/assets/images/armc-logo-square.png)
 
 
 

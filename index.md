@@ -31,5 +31,3 @@ Autumn Rose Management Company, LLC
 400 S. 4th Street, Suite 500
 Las Vegas, NV 89101 USA
 
-
-{% google_map latitude="48.8587741" longitude="2.2074741" marker_title="My Location" marker_img="/img.jpg" marker_url="/my-location.html" %}

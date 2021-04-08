@@ -3,3 +3,8 @@ title: Autumn Rose Management Company, LLC
 description: "Autumn Rose Management Company (ARMC) is currently a pre-launch sports betting entity."
 show_downloads: false
 theme: jekyll-theme-tactile
+plugins:
+  - jekyll-maps
+maps:
+  google:
+    api_key: AIzaSyAOc41TTj8xm0oFtbGAU0rjCxBB9GqMTnI

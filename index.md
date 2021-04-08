@@ -3,12 +3,12 @@ layout: default
 ---
 
 
-<p style="text-align: center;">
-  <img src="/website/assets/images/pexels-garret-schappacher-2115874.jpg" width="300" alt="Photo by Garret Schappacher from Pexels"/>
+<p> 
+  <img src="/website/assets/images/pexels-garret-schappacher-2115874.jpg" width="200" alt="Photo by Garret Schappacher from Pexels"/>
   <figcaption>Photo by Garret Schappacher from Pexels</figcaption>
-  <img src="/website/assets/images/pexels-kevin-ku-577585.jpg" width="300" alt="Photo by Kevin Ku from Pexels"/>
+  <img src="/website/assets/images/pexels-kevin-ku-577585.jpg" width="200" alt="Photo by Kevin Ku from Pexels"/>
   <figcaption>Photo by Kevin Ku from Pexels</figcaption> 
-  <img src="/website/assets/images/pexels-david-vives-2837909.jpg" width="300" alt="Photo by David Vives from Pexels"/>
+  <img src="/website/assets/images/pexels-david-vives-2837909.jpg" width="200" alt="Photo by David Vives from Pexels"/>
   <figcaption>Photo by David Vives from Pexels</figcaption>
 </p>
 

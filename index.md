@@ -28,7 +28,9 @@ Once such approvals are obtained, ARMC will provide an Offering Memorandum and r
 For further information contact:
 
 Autumn Rose Management Company, LLC
+
 400 S. 4th Street, Suite 500
+
 Las Vegas, NV 89101 USA
 
 

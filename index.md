@@ -27,7 +27,7 @@ Once such approvals are obtained, ARMC will provide an Offering Memorandum and r
 
 For further information contact:
 
-Autumn Rose Management Company, LLC
+<b>Autumn Rose Management Company, LLC</b>
 
 400 S. 4th Street, Suite 500
 

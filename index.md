@@ -31,3 +31,6 @@ Autumn Rose Management Company, LLC
 400 S. 4th Street, Suite 500
 Las Vegas, NV 89101 USA
 
+
+---
+Copyright &copy; 2021 Autumn Rose Management Company, LLC. All rights reserved.

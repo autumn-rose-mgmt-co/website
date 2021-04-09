@@ -15,7 +15,7 @@ Autumn Rose Management Company (ARMC) is a pre-launch alternative asset class of
 
 ARMC will achieve its returns through algorithmic sports betting, where, as the sports betting market liberalizes, model-based strategies can offer attractive returns.
 
-ARMC is currently seeking approval for “Entity Betting” status under <a href="https://www.leg.state.nv.us/nrs/nrs-463.html#NRS463Sec800"> Section 463.800 of the Nevada Gaming Control Act</a> for its initial ARMC Bettors Purse&trade; Fund. When and if approved, AMRC will offer limited partnerships to institutional and high net worth investors in one or more funds directed to one or more types of sporting events.
+ARMC is currently seeking approval for “Entity Betting” status under <a href="https://www.leg.state.nv.us/nrs/nrs-463.html#NRS463Sec800"> Section 463.800 of the Nevada Gaming Control Act</a>. When and if approved, AMRC will offer limited partnerships to institutional and high net worth investors in one or more funds directed to one or more types of sporting events.
 
 ARMC’s sports betting operations are subject to regulation by Sports Books and the Nevada Gaming Commission, and must comply with applicable state and federal laws.
 
